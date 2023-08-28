@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: TVMATP613400L
+pool: Default
 
 variables:
   solution: '**/*.sln'
